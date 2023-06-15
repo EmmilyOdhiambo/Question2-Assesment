@@ -132,3 +132,9 @@ class LibraryCatalog:
         print("Title:", book.title)
         print("Author:", book.author)
         print("Available Copies:", book.available_copies)
+
+
+
+# JAVASCRIPT
+
+
